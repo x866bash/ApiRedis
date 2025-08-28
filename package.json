@@ -5,7 +5,20 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "ioredis": "^5.4.1"
-  }
+    "ioredis": "^5.7.0"
+  },
+  "description": "API sederhana untuk mencatat visitor website menggunakan Redis Cloud.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x866bash/ApiRedis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/x866bash/ApiRedis/issues"
+  },
+  "homepage": "https://github.com/x866bash/ApiRedis#readme"
 }
-
